@@ -10,10 +10,10 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Estudiante de Ingeniería en Sistemas de Información @ Universidad Nacional de Costa Rica (UNA)  
-- 🔭 Actualmente desarrollando: [TimeTrackAI](#), [BioRoute](#) y apps con Firebase Studio  
-- 🌱 Aprendiendo sobre Agentes Inteligentes, LLMs, Gemini AI, Google Cloud  
-- 🛠️ Tech stack: Angular, React, Firebase, TypeScript, Python, Django, Tailwind, MongoDB, Node.js  
-- ✉️ Contacto: cristoferbv@gmail.com  
+- 🔭 Actualmente desarrollando: [TranscriptImages](#) y apps con Firebase Studio  
+- 🌱 Aprendiendo sobre Agentes Inteligentes, LLMs, Gemini AI, Google Cloud y mucho más 
+- 🛠️ Tech stack: Angular, React, TypeScript, JavaScript, Python, Django, Tailwind, MongoDB, Firebase, Node.js  
+- ✉️ Contacto: barriosvalverdecristofer@gmail.com  
 - 🌐 LinkedIn: [Cristofer Barrios](https://www.linkedin.com/in/cristofer-barrios-valverde-057927274/)
 
 ---
@@ -25,7 +25,7 @@
 | [Face_Security_Guard](https://github.com/jocscripth/Face_Security_Guard) | Seguridad facial con OpenCV y Python | Python, AI |
 | [My Portfolio](https://github.com/CristoferBV/My_Portfolio) | Mi portafolio personal con Tailwind y TypeScript | Angular, Firebase |
 | [BioRoute](#) | Aplicación de ecoturismo con rutas inteligentes | React Native, Firebase |
-| [TimeTrackAI](#) | Asistencia con reconocimiento facial usando Genkit | Next.js, GCP, AI |
+| [TranscriptImages](#) | Transcipcion de images a archivos .pdf o xlsx | React, Google Vision, Fire Base, Vite |
 
 ---
 

@@ -14,7 +14,7 @@
 - 🌱 Aprendiendo sobre Agentes Inteligentes, LLMs, Gemini AI, Google Cloud y mucho más 
 - 🛠️ Tech stack: Angular, React, TypeScript, JavaScript, Python, Django, Tailwind, MongoDB, Firebase, Node.js  
 - ✉️ Contacto: barriosvalverdecristofer@gmail.com  
-- 🌐 LinkedIn: [Cristofer Barrios](https://www.linkedin.com/in/cristofer-barrios-valverde-057927274/)
+- 🌐 LinkedIn: [Cristofer Barrios Valverde](https://www.linkedin.com/in/cristofer-barrios-valverde-057927274/)
 
 ---
 

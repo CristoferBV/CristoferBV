@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Estudiante de Ingeniería en Sistemas de Información @ Universidad Nacional de Costa Rica (UNA)  
-- 🔭 Actualmente desarrollando: [TranscriptImages](https://github.com/CristoferBV/TranscriptImages) y apps con Firebase Studio  
+- 🎓 Estudiante de Ingeniería en Sistemas @Universidad Nacional de Costa Rica (UNA)  
+- 🔭 Actualmente desarrollando: [TranscriptImages](https://github.com/CristoferBV/TranscriptImages) & [BioRoute](#), ademas de muchas apps innovadoras en camino 
 - 🌱 Aprendiendo sobre Agentes Inteligentes, LLMs, Gemini AI, Google Cloud y mucho más 
 - 🛠️ Tech stack: Angular, React, TypeScript, JavaScript, Python, Django, Tailwind, MongoDB, Firebase, Node.js  
 - ✉️ Contacto: barriosvalverdecristofer@gmail.com  
@@ -26,6 +26,7 @@
 | [My Portfolio](https://github.com/CristoferBV/My_Portfolio) | Mi portafolio personal con Tailwind y TypeScript | Angular, Firebase |
 | [BioRoute](#) | Aplicación de ecoturismo con rutas inteligentes | React Native, Firebase |
 | [TranscriptImages](https://github.com/CristoferBV/TranscriptImages) | Transcipcion de images a archivos .pdf o xlsx | React, Google Vision, Fire Base, Vite |
+| [System Pauna](https://github.com/CristoferBV/system_pauna) | Portal exclusivo para la biblioteca y administración del Campus Coto de la Universidad Nacional de Costa Rica | NextJS, React, TypeScript, MySQL, Bootstrap
 
 ---
 

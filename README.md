@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Estudiante de Ingeniería en Sistemas de Información @ Universidad Nacional de Costa Rica (UNA)  
-- 🔭 Actualmente desarrollando: [TranscriptImages](#) y apps con Firebase Studio  
+- 🔭 Actualmente desarrollando: [TranscriptImages](https://github.com/CristoferBV/TranscriptImages) y apps con Firebase Studio  
 - 🌱 Aprendiendo sobre Agentes Inteligentes, LLMs, Gemini AI, Google Cloud y mucho más 
 - 🛠️ Tech stack: Angular, React, TypeScript, JavaScript, Python, Django, Tailwind, MongoDB, Firebase, Node.js  
 - ✉️ Contacto: barriosvalverdecristofer@gmail.com  
@@ -25,7 +25,7 @@
 | [Face_Security_Guard](https://github.com/jocscripth/Face_Security_Guard) | Seguridad facial con OpenCV y Python | Python, AI |
 | [My Portfolio](https://github.com/CristoferBV/My_Portfolio) | Mi portafolio personal con Tailwind y TypeScript | Angular, Firebase |
 | [BioRoute](#) | Aplicación de ecoturismo con rutas inteligentes | React Native, Firebase |
-| [TranscriptImages](#) | Transcipcion de images a archivos .pdf o xlsx | React, Google Vision, Fire Base, Vite |
+| [TranscriptImages](https://github.com/CristoferBV/TranscriptImages) | Transcipcion de images a archivos .pdf o xlsx | React, Google Vision, Fire Base, Vite |
 
 ---
 

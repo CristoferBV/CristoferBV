@@ -22,7 +22,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Face_Security_Guard](https://github.com/jocscripth/Face_Security_Guard) | Seguridad facial con OpenCV y Python | Python, AI |
+| [Face_Security_Guard](https://github.com/jocscriptch/Face_Security_Guard) | Seguridad facial con OpenCV y Python | Python, AI |
 | [My Portfolio](https://github.com/CristoferBV/My_Portfolio) | Mi portafolio personal con Tailwind y TypeScript | Angular, Firebase |
 | [BioRoute](#) | Aplicación de ecoturismo con rutas inteligentes | React Native, Firebase |
 | [TranscriptImages](https://github.com/CristoferBV/TranscriptImages) | Transcipcion de images a archivos .pdf o xlsx | React, Google Vision, Fire Base, Vite |

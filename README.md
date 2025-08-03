@@ -23,7 +23,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Face_Security_Guard](https://github.com/jocscriptch/Face_Security_Guard) | Seguridad facial con OpenCV y Python | Python, AI |
-| [My Portfolio](https://github.com/CristoferBV/My_Portfolio) | Mi portafolio personal con Tailwind y TypeScript | Angular, Firebase |
+| [WalletCompass Project](https://github.com/AndreyBV5/walletcompass_project) | Simulacion de billetera virtual con tarjetas, cedulas y carnet estudiantil | Dart, Firebase, Flutter |
 | [BioRoute](#) | Aplicación de ecoturismo con rutas inteligentes | React Native, Firebase |
 | [TranscriptImages](https://github.com/CristoferBV/TranscriptImages) | Transcipcion de images a archivos .pdf o xlsx | React, Google Vision, Fire Base, Vite |
 | [System Pauna](https://github.com/CristoferBV/system_pauna) | Portal exclusivo para la biblioteca y administración del Campus Coto de la Universidad Nacional de Costa Rica | NextJS, React, TypeScript, MySQL, Bootstrap
